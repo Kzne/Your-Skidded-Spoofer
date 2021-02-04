@@ -1,0 +1,7 @@
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\bin\Debug\Your Skidded Spoofer.exe.config
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\bin\Debug\Your Skidded Spoofer.exe
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\bin\Debug\Your Skidded Spoofer.pdb
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\obj\Debug\Your Skidded Spoofer.csprojAssemblyReference.cache
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\obj\Debug\Your Skidded Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\obj\Debug\Your Skidded Spoofer.exe
+C:\Users\Tracy Cross\source\repos\Your Skidded Spoofer\Your Skidded Spoofer\obj\Debug\Your Skidded Spoofer.pdb
